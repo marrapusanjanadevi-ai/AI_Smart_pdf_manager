@@ -2,7 +2,7 @@
 
 A mobile-first intelligent document management system that processes PDFs, enables natural language search via embeddings, auto-categorizes content, provides smart merge suggestions, and allows date-based deletion.
 
-## 🚀 Tech Stack
+## Tech Stack
 
 - **Frontend**: React (Vite), Tailwind CSS 3, Lucide Icons
 - **Backend**: FastAPI, SQLAlchemy, SQLite, Python
