@@ -8,7 +8,7 @@ A mobile-first intelligent document management system that processes PDFs, enabl
 - **Backend**: FastAPI, SQLAlchemy, SQLite, Python
 - **AI/NLP**: Sentence Transformers (`all-MiniLM-L6-v2`), FAISS Vector Database, PyMuPDF (Fitz)
 
-## ⚙️ How to Run Locally
+##  How to Run Locally
 
 ### 1. Start the Backend API
 
