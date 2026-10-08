@@ -28,7 +28,7 @@ pip install fastapi uvicorn sqlalchemy pymupdf sentence-transformers faiss-cpu p
 uvicorn main:app --reload --host 0.0.0.0 --port 8000
 ```
 
-*The backend will be available at  It manages SQLite & FAISS vector states automatically.*
+ It manages SQLite & FAISS vector states automatically.*
 
 ### 2. Start the Frontend App
 
