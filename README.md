@@ -42,4 +42,4 @@ npm install
 npm run dev -- --host
 ```
 
-*The frontend application will be available at http://localhost:5173. You can access it on your local network using your machine's IP address (e.g. 
+*The frontend application will be available at  You can access it on your local network using your machine's IP address (e.g. 
